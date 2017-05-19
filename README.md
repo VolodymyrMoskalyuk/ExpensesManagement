@@ -18,4 +18,5 @@ First variant:
    + way to jar file in the project: ExpensesManagement\out\artifacts\ExpensesManagement_jar.
    
 Second variant:
+
    In Intellij Idea You can press "Shift+F10" or press Run -> Run"ExpensesManagement.jar" after You can use application.
