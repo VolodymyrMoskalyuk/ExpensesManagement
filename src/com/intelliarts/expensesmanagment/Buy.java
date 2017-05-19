@@ -37,6 +37,8 @@ public class Buy {
                 case "total":
                     convertorCurrencyCode(command);
                     break;
+                default:
+                    System.out.println("Unknown command");
             }
         }
     }
